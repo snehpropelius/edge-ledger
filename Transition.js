@@ -9,7 +9,7 @@ const navbar = document.getElementById('navbar');
                 setTimeout(function(){
                     navbar.style.transform = 'translateY(0)';
                     scrolled = true;
-                },1000);
+                },200);
             }else{
                 navbar.classList.add('top');
                 scrolled = false;
