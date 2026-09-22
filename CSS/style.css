@@ -124,7 +124,7 @@ img{
 }
 
 .cases img:hover{
-    opacity: 0.7;
+    opacity: 0.6;
 }
 .team img{
     border-radius: 50%;
@@ -166,7 +166,7 @@ img{
     padding-bottom: 10px;
     border-bottom: #ccc 1px solid;
 }
-.post .meta{
+.post.meta{
     margin-bottom: 30px;
 }
 .post img{
